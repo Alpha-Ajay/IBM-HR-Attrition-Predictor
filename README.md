@@ -1,6 +1,6 @@
 # 💼 IBM HR Analytics - Employee Attrition Predictor
 
-🚀 **[Live Streamlit Demo](YOUR_STREAMLIT_LINK)** — Try it yourself in the browser!  
+🚀 **[Live Streamlit Demo](https://ibm-hr-attrition-predictor-qote8ox2w5eucd3lxmy3jr.streamlit.app/)** — Try it yourself in the browser!  
 📊 **[View Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)** — IBM HR Analytics Employee Attrition Dataset
 
 ---
@@ -102,7 +102,7 @@ _All images are stored in the [`Screenshots`](./Screenshots) folder._
 ---
 
 ## 🌐 **Live App**
-🎯 Try the app here → **[Streamlit Deployment Link](YOUR_STREAMLIT_LINK)**
+🎯 Try the app here → **[Streamlit Deployment Link](https://ibm-hr-attrition-predictor-qote8ox2w5eucd3lxmy3jr.streamlit.app/)**
 
 ---
 
