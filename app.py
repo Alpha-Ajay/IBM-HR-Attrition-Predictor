@@ -206,6 +206,6 @@ if st.button("🔍 Predict Attrition"):
 # FOOTER
 # -------------------
 st.markdown(
-    "<hr><p style='text-align: center;'>Made ❤️ by Ajay</p>",
+    "<hr><p style='text-align: center;'>Made with ❤️ by Ajay</p>",
     unsafe_allow_html=True
 )
